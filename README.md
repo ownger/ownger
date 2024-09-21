@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Aleksandr Sokolov
+- 👀 I’m interested in web technologies
+- 🌱 I’m currently learning Tensor Flow
